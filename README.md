@@ -36,7 +36,15 @@ The circuit is controlled using Arduino UNO. The DS18B20 temperature sensor is c
 - Flux
 - Soldering iron
 
-<img src="images/The circuit is controlled using Arduino UNO. The DS18B20 temperature sensor is connected to the positive and negative terminals, as well as to the "2" pin on the Arduino board. Additionally, a resistor with a resistance of 4.7k ohms or similar is needed because the sensor will only work properly with it. The data collected by the sensor is transmitted to the LCD display, and the connected potentiometer serves as a brightness controller for the displayed image. >
+<img src="images/IMG_20210325_214547102.jpg"/>
+<img src="images/IMG_20210325_214553894.jpg"/>
+<img src="images/IMG_20210325_214606675.jpg"/>
+<img src="images/IMG_20210325_214650776.jpg"/>
+<img src="images/IMG_20210325_221342392.jpg"/>
+<img src="images/IMG_20210325_221349144.jpg"/>
+<img src="images/LCD Display 16X2 Character - Twins Chip 3-550x550w.jpg"/>
+<img src="images/schemat.jpg"/>
+<img src="images/unnamed.png"/>
 
 <!-- LICENSE -->
 ## License
